@@ -1,0 +1,1 @@
+  -L"C:/Users/User/DOCUME~1/AHMETE~1/Sesli-ai/NOVA-v2/cpp/../target/X86_64~1/release"  -lnova_core -lbcrypt -luserenv -lws2_32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

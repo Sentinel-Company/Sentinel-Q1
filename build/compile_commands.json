@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/User/Documents/AHMET ERNE/Sesli-ai/NOVA-v2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/nova_hybrid.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles\\nova_hybrid.dir\\src\\main.cpp.obj -c \"C:\\Users\\User\\Documents\\AHMET ERNE\\Sesli-ai\\NOVA-v2\\cpp\\src\\main.cpp\"",
+  "file": "C:/Users/User/Documents/AHMET ERNE/Sesli-ai/NOVA-v2/cpp/src/main.cpp",
+  "output": "CMakeFiles/nova_hybrid.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Documents/AHMET ERNE/Sesli-ai/NOVA-v2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/nova_hybrid.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles\\nova_hybrid.dir\\src\\strategy_engine\\strategy_engine.cpp.obj -c \"C:\\Users\\User\\Documents\\AHMET ERNE\\Sesli-ai\\NOVA-v2\\cpp\\src\\strategy_engine\\strategy_engine.cpp\"",
+  "file": "C:/Users/User/Documents/AHMET ERNE/Sesli-ai/NOVA-v2/cpp/src/strategy_engine/strategy_engine.cpp",
+  "output": "CMakeFiles/nova_hybrid.dir/src/strategy_engine/strategy_engine.cpp.obj"
+}
+]

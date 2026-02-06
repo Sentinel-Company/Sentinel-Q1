@@ -1,0 +1,4 @@
+C:/Users/User/Documents/AHMET ERNE/Sesli-ai/NOVA-v2/build/CMakeFiles/rust_core.dir
+C:/Users/User/Documents/AHMET ERNE/Sesli-ai/NOVA-v2/build/CMakeFiles/nova_hybrid.dir
+C:/Users/User/Documents/AHMET ERNE/Sesli-ai/NOVA-v2/build/CMakeFiles/edit_cache.dir
+C:/Users/User/Documents/AHMET ERNE/Sesli-ai/NOVA-v2/build/CMakeFiles/rebuild_cache.dir

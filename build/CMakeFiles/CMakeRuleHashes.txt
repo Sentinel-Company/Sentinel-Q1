@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+ffc9425d53586d6de5326ceda2b2d038 C:/Users/User/Documents/AHMET ERNE/Sesli-ai/NOVA-v2/target/x86_64-pc-windows-gnu/release/libnova_core.a
+faca1e2b33e388b16337f69223230816 CMakeFiles/rust_core
